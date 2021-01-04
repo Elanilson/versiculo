@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Versiculo por tema</string>
+    <string name="logo">VP</string>
+    <string name="copiar">Copiar</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="amei">Amei</string>
+    <string name="amizade">Amizade</string>
+    <string name="amor">Amor</string>
+    <string name="aniversario">Aniversário</string>
+    <string name="bomDia">Bom Dia</string>
+    <string name="casamento">Casamento</string>
+    <string name="encorajamento">Encorajamento</string>
+    <string name="fe">Fé</string>
+    <string name="motivacao">Motivação</string>
+    <string name="mulher">Mulher</string>
+    <string name="oracao">Oração</string>
+    <string name="palavrasdeConforto">Palavras de Conforto</string>
+    <string name="favoritos">Favoritos</string>
+
+</resources>
